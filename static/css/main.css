@@ -78,4 +78,6 @@ body{
    .hidden{
     display: none!important;
    }
-   
+   .y {
+    background-color: white;
+   }
